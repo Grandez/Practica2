@@ -1,7 +1,7 @@
 # Practica2
 
 <p align="center">
-  <img src="your_relative_path_here" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="800"/>
+
+  <img src="https://github.com/Grandez/Practica2/blob/master/Practica3_2/screenshot.png" width="800"/>
 </p>
-![Screenshot](practica3_2/screenshot.png)
+![Screenshot](/blob/master/Practica3_2/screenshot.png)
