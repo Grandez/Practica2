@@ -1,7 +1,7 @@
-# Practica2
+# Practica Android
 
 <p align="center">
 
-  <img src="https://github.com/Grandez/Practica2/blob/master/Practica3_2/screenshot.png" width="800"/>
+  <img src="https://github.com/Grandez/Practica2/blob/master/Practica3_2/screenshot.png"/>
 </p>
-![Screenshot](/blob/master/Practica3_2/screenshot.png)
+
